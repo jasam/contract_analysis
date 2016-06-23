@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Tue Jun 21 12:20:15 COT 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0155-73fa-0c37-00002ed5c3c0 
+Wed Jun 22 17:53:26 COT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0155-7a51-71b9-00002ef288a0 
 on database directory /home/jasam/repositories/contract_analysis/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7f1e98ff 
 Loaded from file:/home/jasam/spark-1.6.1-bin-hadoop2.6/lib/spark-assembly-1.6.1-hadoop2.6.0.jar
 java.vendor=Oracle Corporation
